@@ -1,1 +1,1 @@
-(print (+ (- 1 2) (add1 (read-num))))
+(print (+ (- 1 2) (add1 5)))
